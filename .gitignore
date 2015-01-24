@@ -1,0 +1,7 @@
+*.txt
+/test
+/train
+gc-data.Rproj
+.Rproj.user
+.RData
+.Rhistory
