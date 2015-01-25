@@ -1,6 +1,6 @@
 ## Data Dictionary - dataset.txt
 
-Summary of the UCI - Human Activity Recognition Using Smartphones Data Set 
+**EXTRACT AND SUMMARY** of the UCI - Human Activity Recognition Using Smartphones Data Set 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Only the \*mean() and \*std() fields were included.
