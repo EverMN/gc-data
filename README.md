@@ -1,5 +1,7 @@
 # run_analysis.R
 
+**Code book available in ./codebook.md**
+
 This script creates a summarized tidy data set from the UCI - Human Activity Recognition Using Smartphones Data Set 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 following the next steps:
